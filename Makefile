@@ -6,7 +6,7 @@
 #    By: sbhatta <sbhatta@student.42.fr>            +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2023/04/22 13:18:59 by sbhatta           #+#    #+#              #
-#    Updated: 2023/08/18 18:07:51 by sbhatta          ###   ########.fr        #
+#    Updated: 2023/08/21 18:27:59 by sbhatta          ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -48,7 +48,6 @@ SRCS =  ./src/builtins/builtin_utils.c \
 		./src/parser/parse_tokens.c \
 		./src/processes/init_process.c \
 		./src/processes/run_process.c \
-		./src/utils/builtin_utils.c \
 		./src/utils/env_utils.c \
 		./src/utils/free_utils.c \
 		./src/utils/heredoc_utils.c \
